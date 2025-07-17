@@ -17,7 +17,7 @@ Uma calculadora simples, precisa e confiável para ajudar apostadores esportivos
 
 ```bash
 1. Clone o repositório
-git clone https://github.com/estevaosilva7/calculadora-odds.git
+git clone https://github.com/estevaosilva7/calculadora-de-odds
 cd calculadora-odds
 
 2. Execute o script

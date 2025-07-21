@@ -13,6 +13,10 @@ Uma calculadora simples, precisa e confiável para ajudar apostadores esportivos
   - ✅ Lucro **líquido**
 - Validação de entradas com mensagens de erro claras
 
+Versionamento semântico 
+Arquivos:
+calcular_odd.py - Versão 1.0.0
+
 ##  Como Usar
 
 ```bash
